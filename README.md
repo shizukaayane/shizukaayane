@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23%23E9A4A4&lines=Hello%2C+I'm+Shizuka+Ayane)](https://git.io/typing-svg)
-
 <img src="https://raw.githubusercontent.com/shizukaayane/shizukaayane/main/banner.png" />
 
 ![](https://komarev.com/ghpvc/?username=shizukaayane&style=flat-square)
