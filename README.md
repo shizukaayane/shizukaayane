@@ -4,6 +4,9 @@
 
 
 <br />  
+
+I'm a software enthusiast. I am completely self-taught 🎓. Momentarily, my great interest is designing and creating websites of all kinds. I also enjoy reading 📚 and watching different kinds of anime. I don't really know what my future holds...
+
 <br />  
 <br />  
 
